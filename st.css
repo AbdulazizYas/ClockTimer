@@ -1,0 +1,18 @@
+body{
+   background: linear-gradient(to right, #ff00cc, #333399);
+}
+
+.clockStyle {
+  background-color: white;
+  padding: 50px;
+  border: none;
+  border-radius: 120px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  font-size: 50px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #ff00cc;
+}
